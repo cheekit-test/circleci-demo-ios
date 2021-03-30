@@ -13,6 +13,3 @@
 1. Create a CircleCI project for the repository
 1. Edit the `.circleci/config.yml` file as needed
 1. Done
-
-
-# test build
